@@ -1,0 +1,11 @@
+C:\Users\gabriel.oliveira32\source\repos\EXERCICIO13\bin\Debug\EXERCICIO13.exe.config
+C:\Users\gabriel.oliveira32\source\repos\EXERCICIO13\bin\Debug\EXERCICIO13.exe
+C:\Users\gabriel.oliveira32\source\repos\EXERCICIO13\bin\Debug\EXERCICIO13.pdb
+C:\Users\gabriel.oliveira32\source\repos\EXERCICIO13\obj\Debug\EXERCICIO13.csproj.AssemblyReference.cache
+C:\Users\gabriel.oliveira32\source\repos\EXERCICIO13\obj\Debug\EXERCICIO13.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabriel.oliveira32\source\repos\EXERCICIO13\obj\Debug\EXERCICIO13.Form1.resources
+C:\Users\gabriel.oliveira32\source\repos\EXERCICIO13\obj\Debug\EXERCICIO13.Properties.Resources.resources
+C:\Users\gabriel.oliveira32\source\repos\EXERCICIO13\obj\Debug\EXERCICIO13.csproj.GenerateResource.cache
+C:\Users\gabriel.oliveira32\source\repos\EXERCICIO13\obj\Debug\EXERCICIO13.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.oliveira32\source\repos\EXERCICIO13\obj\Debug\EXERCICIO13.exe
+C:\Users\gabriel.oliveira32\source\repos\EXERCICIO13\obj\Debug\EXERCICIO13.pdb
